@@ -1,2 +1,10 @@
 # mini_wallet
-Julo Mini Wallet TEst
+Mini Wallet Exercise
+
+## Installation
+
+Install python requirement first
+
+```bash
+pip3 install -r requirements.tx
+```
