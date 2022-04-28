@@ -3,7 +3,7 @@ Mini Wallet Exercise
 
 ## Installation
 
-Install python requirement first
+Clone the code and run install python requirement first
 
 ```bash
 pip3 install -r requirements.tx
