@@ -6,6 +6,10 @@ Mini Wallet Exercise
 Clone the code and run install python requirement first
 
 ```bash
+git checkout master
+```
+
+```bash
 pip3 install -r requirements.tx
 ```
 
@@ -16,7 +20,7 @@ source mini_wallet_env/bin/activate
 
 ## Run Apps
 ```
-python manage.py runserver
+python3 manage.py runserver
 ```
 
 ## Credential for testing user authentication using postman to get token
